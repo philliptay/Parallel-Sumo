@@ -2,7 +2,8 @@
 A multithreaded C++ and python implementation to parallelize SUMO (Simulation of Urban Mobility).
 
 # Requirements
-SUMO (with home environment variable set), C++ compiler, python3, METIS
+SUMO (with home environment variable set), C++ compiler, python3, METIS.
+
 SUMO routes must be explicit for every vehicle, and does not yet support additionals (taz, detectors).
 
 # How to use
