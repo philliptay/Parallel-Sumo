@@ -1,0 +1,24 @@
+<routes>
+  <vType id="type1" accel="0.8" decel="4.5" sigma="0.5" length="5" maxSpeed="70"/>
+
+  <route id="route0" color="1,1,0" edges="EW0 EW1 EW2 EW3"/>
+  <route id="route1" color="0,1,1" edges="-EW3 -EW2 -EW1 -EW0"/>
+
+  <vehicle id="0" type="type1" route="route0" depart="100" color="1,0,0"/>
+  <vehicle id="1" type="type1" route="route0" depart="100" color="1,0,0"/>
+  <vehicle id="2" type="type1" route="route0" depart="100" color="1,0,0"/>
+  <vehicle id="3" type="type1" route="route0" depart="100" color="1,0,0"/>
+  <vehicle id="4" type="type1" route="route1" depart="100" color="1,0,0"/>
+  <vehicle id="5" type="type1" route="route1" depart="100" color="1,0,0"/>
+  <vehicle id="6" type="type1" route="route1" depart="100" color="1,0,0"/>
+  <vehicle id="7" type="type1" route="route1" depart="100" color="1,0,0"/>
+  <vehicle id="8" type="type1" route="route0" depart="100" color="1,0,0"/>
+  <vehicle id="9" type="type1" route="route0" depart="100" color="1,0,0"/>
+  <vehicle id="10" type="type1" route="route0" depart="100" color="1,0,0"/>
+  <vehicle id="11" type="type1" route="route0" depart="100" color="1,0,0"/>
+  <vehicle id="12" type="type1" route="route1" depart="100" color="1,0,0"/>
+  <vehicle id="13" type="type1" route="route1" depart="100" color="1,0,0"/>
+  <vehicle id="14" type="type1" route="route1" depart="100" color="1,0,0"/>
+  <vehicle id="15" type="type1" route="route1" depart="100" color="1,0,0"/>
+
+</routes>
